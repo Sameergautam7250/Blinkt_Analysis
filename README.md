@@ -1,10 +1,12 @@
-# Blinkt_AnalysisThis repository contains the Power BI report for Blinkit, a data visualization project aimed at analyzing key metrics and performance indicators. The report provides insights into various aspects of the business, including sales, customer behavior, and operational efficiency.
+# Blinkt_Analysis
+#Overview
+This repository contains the Power BI report for Blinkit, a data visualization project aimed at analyzing key metrics and performance indicators. The report provides insights into various aspects of the business, including sales, customer behavior, and operational efficiency.
 
-Key Features
-Interactive Dashboards: The Power BI report includes interactive dashboards that allow users to explore data dynamically.
-Key Metrics: The report highlights important metrics such as sales performance, customer demographics, and operational efficiency.
-Visualizations: The report uses a variety of visualizations, including bar charts, line graphs, and pie charts, to present data in an easy-to-understand format.
-Dataset
+#Key Features
+  Interactive Dashboards: The Power BI report includes interactive dashboards that allow users to explore data dynamically.
+  Key Metrics: The report highlights important metrics such as sales performance, customer demographics, and operational efficiency.
+   Visualizations: The report uses a variety of visualizations, including bar charts, line graphs, and pie charts, to present data in an easy-to-understand format.
+#Dataset
 The dataset used in this Power BI report includes the following key fields:
 
 Sales Data: Information on sales performance, including revenue, units sold, and profit margins.
