@@ -2,6 +2,8 @@
 ### This repository contains the Power BI report for Blinkit, a data visualization project aimed at analyzing key metrics and performance indicators. The report provides insights into various aspects of the business, including sales, customer behavior, and operational efficiency.
 
 ![Alt Text](SS_dashboard.png)
+![Alt Text](Blinkit_PowerBi.pdf)
+
 
 # Key Features
 ### Interactive Dashboards: The Power BI report includes interactive dashboards that allow users to explore data dynamically.
