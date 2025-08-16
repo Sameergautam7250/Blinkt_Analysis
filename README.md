@@ -20,6 +20,6 @@
   Customer lifetime value (CLV).
 
 ## Operational Efficiency:
-    Delivery times and fulfillment rates.
-    Inventory turnover rates.
+   Delivery times and fulfillment rates.
+   Inventory turnover rates.
 
