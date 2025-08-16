@@ -10,16 +10,16 @@
 
 
 # Visualizations Included
-### Sales Performance:
+## Sales Performance:
    Monthly sales trends.
    Top-selling products.
    Revenue by region.
    
-##Customer Insights:
+## Customer Insights:
   Customer demographics (age, gender, location).
   Customer lifetime value (CLV).
 
-##Operational Efficiency:
-  Delivery times and fulfillment rates.
-  Inventory turnover rates.
+## Operational Efficiency:
+    Delivery times and fulfillment rates.
+    Inventory turnover rates.
 
